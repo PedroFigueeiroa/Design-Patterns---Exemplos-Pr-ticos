@@ -2,7 +2,7 @@
 
 ## Autor
 
-Pedro Gabriel
+Pedro Gabriel Figueiroa de Sousa
 
 ## LLM utilizada
 
